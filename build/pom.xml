@@ -9,9 +9,9 @@
         <module>../core</module>
     </modules>
     <scm>
-        <url>https://github.com/bbaetz/maven-release-bug</url>
-        <connection>scm:git:git@github.com:bbaetz/maven-release-bug.git</connection>
-        <developerConnection>scm:git:git@github.com:bbaetz/maven-release-bug.git</developerConnection>
+        <url>https://github.com/glandais-eptica/maven-release-bug</url>
+        <connection>scm:git:git@github.com:glandais-eptica/maven-release-bug.git</connection>
+        <developerConnection>scm:git:git@github.com:glandais-eptica/maven-release-bug.git</developerConnection>
     </scm>
 
     <build>
